@@ -62,9 +62,9 @@ We may update this privacy policy from time to time. We will notify users of any
 
 ## Contact Information
 
-If you have any questions about this privacy policy, please contact us at:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+If you have any questions about this privacy policy, please contact Ross at:
+- Email: rmacfarlane24@googlemail.com 
+- GitHub: https://github.com/rmacfarlane24
 
 ## Your Rights
 
