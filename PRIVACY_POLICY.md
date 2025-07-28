@@ -1,7 +1,6 @@
 # Privacy Policy for BTC Vision
 
-**Last updated:** [Current Date]
-
+**Last updated:** 28th July 2025
 ## Overview
 
 BTC Vision is a browser extension that converts fiat currency prices to Bitcoin (BTC) or Satoshi (sats) equivalents on web pages. This privacy policy explains how we handle your data.
